@@ -1,0 +1,2 @@
+config SHIELD_reviung41
+		def_bool $(shiels_list_contains,reviung41)
